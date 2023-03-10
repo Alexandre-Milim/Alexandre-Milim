@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header&text=AlexandreﾠMilim&fontSize=30&fontColor=ffff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header&text=MariaﾠSanches&fontSize=30&fontColor=ffff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alexandre+Gabryel+Milim;I'm+16+years+old;I+from+Brazil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Maria+Eduarda+Sanches;I'm+16+years+old;I+from+Brazil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Milim&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alexandre Gabryel Milim github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Milim&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dudasaanches&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Maria Eduarda Sanches github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudasaanches&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <div  align="center"> 
@@ -20,13 +20,13 @@
    </div> 
  
   <h1 align="center">Redes Sociais</h1>
-    <a href = "https://mail.google.com/mail/u/0/#search/alexandremilim15%40gmail.com?compose=new">
+    <a href = "https://mail.google.com/mail/u/0/#search/sanchesdeoliveiralima@gmail.com?compose=new">
       <img width="30" src="https://github.com/LuigiGf/LuigiGf/raw/main/gmail.svg">
     </a>
-    <a href = "https://www.instagram.com/milim.batman/">
+    <a href = "https://www.instagram.com/dudasaanches/">
       <img width="26" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
     </a>
-    <a href = "https://www.linkedin.com/in/alexandre-milim-1ba537269/">
+    <a href = "https://www.linkedin.com/in/maria-eduarda-sanches-de-oliveira-lima-9a9a08269/">
     <img width="26" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
 </div>
