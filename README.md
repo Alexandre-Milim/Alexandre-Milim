@@ -18,7 +18,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div> 
- 
+
   <h1 align="center">Redes Sociais</h1>
     <a href = "https://mail.google.com/mail/u/0/#search/alexandremilim15%40gmail.com?compose=new">
       <img width="30" src="https://github.com/LuigiGf/LuigiGf/raw/main/gmail.svg">
