@@ -5,7 +5,7 @@
   
  <div align="center">  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Milim&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Milim&layout=compact&langs_count=16&theme=gotham"/>
+ <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Milim&layout=compact&langs_count=16&theme=gotham"/>
 </div>
  
 [![Intagram Badge](https://img.shields.io/badge/-milim.batman-00875f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/milim.batman/)](https://www.instagram.com/milim.batman/) 
