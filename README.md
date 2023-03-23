@@ -9,7 +9,7 @@
 </div>
  
 [![Intagram Badge](https://img.shields.io/badge/-milim.batman-00875f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/milim.batman/)](https://www.instagram.com/milim.batman/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-alexandremilim15@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandremilim15@gmail.com)](mailto:alexandremilim15@gmail.com)
 
 
 ### Tools:
