@@ -7,18 +7,9 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Milim&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Milim&layout=compact&langs_count=16&theme=gotham"/>
 </div>
-
-<div  align="center"> 
-  <div style="display: inline_block"><br> 
-
-  <h1 align="center">Social Networks</h1>
-    <a href = "https://mail.google.com/mail/u/0/#search/alexandremilim15%40gmail.com?compose=new">
-      <img width="30" src="https://github.com/LuigiGf/LuigiGf/raw/main/gmail.svg">
-    </a>
-    <a href = "https://www.instagram.com/milim.batman/">
-      <img width="26" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
-    </a>
-</div>
+ 
+[![Intagram Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/milim.batman/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 
 ### Tools:
