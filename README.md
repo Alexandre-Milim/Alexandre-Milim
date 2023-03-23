@@ -8,7 +8,7 @@
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Milim&layout=compact&langs_count=16&theme=gotham"/>
 </div>
  
-[![Intagram Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/milim.batman/)]([https://www.linkedin.com/in/diego-schell-fernandes/](https://www.instagram.com/milim.batman/)) 
+[![Intagram Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
 [![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 
