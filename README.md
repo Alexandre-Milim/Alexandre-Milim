@@ -10,6 +10,8 @@
  
 [![Intagram Badge](https://img.shields.io/badge/-milim.batman-00875f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/milim.batman/)](https://www.instagram.com/milim.batman/) 
 [![Gmail Badge](https://img.shields.io/badge/-alexandremilim15@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandremilim15@gmail.com)](mailto:alexandremilim15@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Alexandre-Milim-00875f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/milim.batman/)](https://www.instagram.com/milim.batman/) 
+
 
 
 ### Tools:
