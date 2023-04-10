@@ -9,8 +9,7 @@
 </div>
  
 [![Intagram Badge](https://img.shields.io/badge/-milim.batman-00875f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/milim.batman/)](https://www.instagram.com/milim.batman/) 
-[![Gmail Badge](https://img.shields.io/badge/-alexandremilim15@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandremilim15@gmail.com)](mailto:alexandremilim15@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Alexandre%20Milim-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-milim-1ba537269/)](https://www.linkedin.com/in/alexandre-milim-1ba537269/) 
 [![Gmail Badge](https://img.shields.io/badge/-alexandremilim15@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandremilim15@gmail.com)](mailto:alexandremilim15@gmail.com)
 
 
