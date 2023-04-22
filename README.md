@@ -7,4 +7,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Alexandre%20Milim-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-milim-1ba537269/)](https://www.linkedin.com/in/alexandre-milim-1ba537269/) 
 [![Gmail Badge](https://img.shields.io/badge/-alexandremilim15@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandremilim15@gmail.com)](mailto:alexandremilim15@gmail.com)
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Milim&t&hide_border=true&count_private=true&layout=compact&langs_count=7&theme=gotham&include_all_commits=true&show_icons=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Milim&t&hide_border=true&count_private=true&layout=compact&langs_count=7&theme=react&include_all_commits=true&show_icons=true"/>
